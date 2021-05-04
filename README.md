@@ -1,2 +1,2 @@
-# context-and-recoil-study
+# atomic-design-study
 Created with CodeSandbox
